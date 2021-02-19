@@ -3,6 +3,8 @@
 My name is **Ashish Ghosh** and I'm a Test Automation Architect/DevOps/Cloud Consultant. 
 I'm from India, living in Amsterdam, Netherlands and currently working at Cognizant Technology Solutions.
 
+You can find me on Linkedin [![LinkedIn][1.1]][1]
+
 ## &#x270d; Blog & Writing
 
 Apart from coding, I also maintain a blog space - you can find my articles on [Medium](https://medium.com/@ghoshasish99)
@@ -27,3 +29,7 @@ Automation with JS Application|Automation with Java frameworks|Other automation 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghoshasish99&layout=compact" />
 </a>
 
+<!-- icons without padding -->
+[1.1]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+<!-- links to your social media accounts -->
+[1]: https://www.linkedin.com/in/ashish-ghosh/

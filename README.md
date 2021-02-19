@@ -1,19 +1,13 @@
-### Hi there 👋
+### Hello Everyone 👋
 
-<!--
-**ghoshasish99/ghoshasish99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is **Ashish Ghosh** and I'm a Test Automation Architect/DevOps/Cloud Consultant. 
+I'm from India, living in Amsterdam, Netherlands and currently working at Cognizant Technology Solutions.
 
-Here are some ideas to get you started:
+## &#x270d; Blog & Writing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- 💥  -->
+Apart from coding, I also maintain a blog space - you can find my articles on [Medium](https://medium.com/@ghoshasish99)
+
+## 🔧 Technologies & Tools
 
 Automation with JS Application|Automation with Java frameworks|Other automation frameworks|API Automation|Scriptless Tools|Mobile Automation|Service Virtualization
 ----|----|----|----|----|----|----
@@ -22,6 +16,14 @@ Automation with JS Application|Automation with Java frameworks|Other automation 
 ![](https://img.shields.io/badge/Puppeteer-Cucumber-informational?style=flat&color=2bbc8a)
 ![](https://img.shields.io/badge/Puppeteer-Jest-informational?style=flat&color=2bbc8a)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ghoshasish99&show_icons=true&theme=merko)   
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghoshasish99&layout=compact)
+## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/ghoshasish99/ghoshasish99">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ghoshasish99&show_icons=true&theme=merko" alt="Ashish's GitHub Stats" />
+</a>
+
+<a href="https://github.com/ghoshasish99/ghoshasish99">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghoshasish99&layout=compact" />
+</a>
+

@@ -7,16 +7,19 @@ I'm from India, living in Amsterdam, Netherlands and currently working at Cogniz
 
 You can find me on [Linkedin](https://www.linkedin.com/in/ashish-ghosh/)
 
+I also maintain a Trello board which shows all the new tools that I work with and list down the Github repositories that I create. You can check it out from this link :
+[View my work](https://trello.com/b/dZVAeTeE/ashish-ghosh) 
+
 ## &#x270d; Blog & Writing
 
-Apart from coding, I also maintain a blog space - you can find my articles on [Medium](https://medium.com/@ghoshasish99)
+Apart from working as a Test Automation Architect, I also maintain a blog space - you can find my articles on [Medium](https://medium.com/@ghoshasish99)
 
 ## 🔧 Tools & Technologies
 
 Automation with JS Application|Automation with Java frameworks|Other automation frameworks|API Automation|Scriptless Tools|Mobile Automation|Service Virtualization
 ----|----|----|----|----|----|----
 ![](https://img.shields.io/badge/Playwright-CucumberJS-informational?style=flat&color=2bbc8a)|![](https://img.shields.io/badge/Selenium-Cucumber-informational?style=flat&color=blue)|![](https://img.shields.io/badge/Selenium-Specflow-informational?style=flat&color=blueviolet)|![](https://img.shields.io/badge/RestAssured-Serenity-informational?style=flat&color=blue)|![](https://img.shields.io/badge/Katalon-informational?style=flat&color=yellowgreen)|![](https://img.shields.io/badge/Appium-Java-informational?style=flat&color=blue)|![](https://img.shields.io/badge/Wiremock-Java-informational?style=flat&color=blue)
-![](https://img.shields.io/badge/Playwright-Folio-informational?style=flat&color=2bbc8a)|![](https://img.shields.io/badge/Selenium-Serenity-informational?style=flat&color=blue)|![](https://img.shields.io/badge/Playwright-Specflow-informational?style=flat&color=blueviolet)|![](https://img.shields.io/badge/SoapUI-Rest&Soap-informational?style=flat&color=lightgrey)|![](https://img.shields.io/badge/Ranorex-informational?style=flat&color=yellowgreen)|![](https://img.shields.io/badge/Espresso-Java-informational?style=flat&color=blue)|![](https://img.shields.io/badge/JsonServer-JS-informational?style=flat&color=2bbc8a)
+![](https://img.shields.io/badge/Playwright-Folio-informational?style=flat&color=2bbc8a)|![](https://img.shields.io/badge/Selenium-Serenity-informational?style=flat&color=blue)|![](https://img.shields.io/badge/Playwright-Specflow-informational?style=flat&color=blueviolet)|![](https://img.shields.io/badge/SoapUI-informational?style=flat&color=yellowgreen)|![](https://img.shields.io/badge/Ranorex-informational?style=flat&color=yellowgreen)|![](https://img.shields.io/badge/Espresso-Java-informational?style=flat&color=blue)|![](https://img.shields.io/badge/JsonServer-JS-informational?style=flat&color=2bbc8a)
 ![](https://img.shields.io/badge/Puppeteer-CucumberJS-informational?style=flat&color=2bbc8a)|![](https://img.shields.io/badge/Selenium-Jbehave-informational?style=flat&color=blue)|![](https://img.shields.io/badge/Watir-Ruby-informational?style=flat&color=red)|![](https://img.shields.io/badge/Karate-Cucumber-informational?style=flat&color=blue)|![](https://img.shields.io/badge/TestComplete-informational?style=flat&color=yellowgreen)|
 ![](https://img.shields.io/badge/Puppeteer-Jest-informational?style=flat&color=2bbc8a)|![](https://img.shields.io/badge/Jbehave-Serenity-informational?style=flat&color=blue)|![](https://img.shields.io/badge/Selenium-Robot-informational?style=flat&color=yellow)|![](https://img.shields.io/badge/RestSharp-Specflow-informational?style=flat&color=blueviolet)|![](https://img.shields.io/badge/CITS-informational?style=flat&color=yellowgreen)|
 ![](https://img.shields.io/badge/Cypress-CucumberJS-informational?style=flat&color=2bbc8a)|![](https://img.shields.io/badge/Playwright-Cucumber-informational?style=flat&color=blue)|![](https://img.shields.io/badge/Playwright-Robot-informational?style=flat&color=yellow)|![](https://img.shields.io/badge/Gatling-Scala-informational?style=flat&color=ff69b4)|![](https://img.shields.io/badge/TestProject-informational?style=flat&color=yellowgreen)

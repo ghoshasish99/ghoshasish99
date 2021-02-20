@@ -27,8 +27,8 @@ Automation with JS Application|Automation with Java frameworks|Other automation 
 ![](https://img.shields.io/badge/Protractor-Jasmine-informational?style=flat&color=2bbc8a)|![](https://img.shields.io/badge/Java-Applitools-informational?style=flat&color=blue)||![](https://img.shields.io/badge/Postman&Newman-Groovy-informational?style=flat&color=blue)
 ![](https://img.shields.io/badge/WebDriverIO-Mocha-informational?style=flat&color=2bbc8a)|||![](https://img.shields.io/badge/JMeter-Java-informational?style=flat&color=blue)|
 ![](https://img.shields.io/badge/NighwatchJS-BDD-informational?style=flat&color=2bbc8a)|||![](https://img.shields.io/badge/CitrusFramework-Java-informational?style=flat&color=blue)
-![](https://img.shields.io/badge/TestCafe-BDD-informational?style=flat&color=2bbc8a)|||![](https://img.shields.io/badge/RequestModule-Pytest-informational?style=flat&color=yellow)
-![](https://img.shields.io/badge/Taiko-Gauge-informational?style=flat&color=2bbc8a)
+![](https://img.shields.io/badge/TestCafe-BDD-informational?style=flat&color=2bbc8a)|||[![](https://img.shields.io/badge/RequestModule-Pytest-informational?style=flat&color=yellow)](https://github.com/ghoshasish99/API-Testing-Pytest)
+[![](https://img.shields.io/badge/Taiko-Gauge-informational?style=flat&color=2bbc8a)](https://github.com/ghoshasish99/Taiko-Gauge)
 
 ## &#x1f4c8; GitHub Stats
 

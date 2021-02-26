@@ -40,6 +40,17 @@ Automation with JS Application|Automation with Java frameworks|Other automation 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghoshasish99&layout=compact" />
 </a>
 
+## &#x270d; Some of my most viewed Medium Articles 
+
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ghoshasish99/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ghoshasish99/0" alt="Recent Article 0"> 
+  
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ghoshasish99/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ghoshasish99/3" alt="Recent Article 3"> 
+  
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ghoshasish99/5"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ghoshasish99/5" alt="Recent Article 5">  
+  
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ghoshasish99/7"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ghoshasish99/7" alt="Recent Article 7">    
+  
 <!-- icons without padding -->
 [1.1]: https://raw.githubusercontent.com/ghoshasish99/ghoshasish99/main/linkedin.png (LinkedIn icon without padding)
 <!-- links to your social media accounts -->

@@ -3,7 +3,7 @@
 ### Hello Everyone 👋
 
 My name is **Ashish Ghosh** and I'm a Test Automation Architect/DevOps/Cloud Consultant. 
-I'm from India, living in Amsterdam, Netherlands and currently working at Cognizant Technology Solutions.
+I'm from India, living in Amsterdam, Netherlands and currently working at ING Bank.
 
 You can find me on [![](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/ashish-ghosh/)
 

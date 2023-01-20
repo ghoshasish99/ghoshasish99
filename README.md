@@ -5,12 +5,15 @@
 My name is **Ashish Ghosh** and I'm a Test Automation Architect/DevOps/Cloud Consultant. 
 I'm from India, living in Amsterdam, Netherlands and currently working at ING Bank.
 
+## &#x270d; On the Internet
+
+
 You can find me on [![](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/ashish-ghosh/)
+
+My YouTube Channel : *Anybody Can Automate* [![](https://img.shields.io/youtube/channel/views/UCqakQNKkL5vTh-DzIEu_0IQ?style=social)](https://www.youtube.com/channel/UCqakQNKkL5vTh-DzIEu_0IQ)
 
 I also maintain a Trello board which shows all the new tools that I work with and list down the Github repositories that I create. You can view my work here :
 [![](https://img.shields.io/badge/Trello-Board-blueviolet)](https://trello.com/b/dZVAeTeE/ashish-ghosh) 
-
-## &#x270d; Blog & Writing
 
 Apart from working as a Test Automation Architect, I also maintain a blog space - you can find my articles on [![](https://img.shields.io/badge/Medium-Blogs-orange)](https://medium.com/@ghoshasish99)
 
